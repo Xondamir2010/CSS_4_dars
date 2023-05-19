@@ -1,0 +1,246 @@
+body{
+    background-color: grey;
+}
+.infographics{
+    width: 500px;
+    height: 140px;
+    background-color: white;
+    margin-left: 50px;
+    position: relative;
+    top: 20px;
+    background-image: url("/Rasmlar/globus.jpg");
+    background-repeat: no-repeat;
+    background-size: 160px;
+    background-position: right;
+}
+.main-menu-item:before{
+    content: '';
+    border: 20px solid transparent;
+    border-top-color: white;
+    position: absolute;
+    top: 569px;
+    right: 635px;
+    transform: rotate(270deg);
+}
+.all{
+    background-color: #f1f1f1;
+    width: 900px;
+    height: 780px;
+    margin: 500px;
+}
+.option{
+    border: 25px solid white;
+    width: 110px;
+    height: 110px;
+    background-color: red;
+    position: absolute;
+    top: 520px;
+    right: 376px;
+}
+.lorem_victor{
+    position: absolute;
+    top: 15px;
+    color: red;
+}
+.lorem_victor2{
+    color: red;
+}
+.option2{
+    border: 25px solid white;
+    width: 110px;
+    height: 110px;
+    background-color: orange;
+    position: absolute;
+    top: 690px;
+    right: 1014px;
+}
+.infographics2{
+    width: 500px;
+    height: 140px;
+    background-color: white;
+    margin-left: 50px;
+    position: relative;
+    top: 50px;
+    right: -295px;
+    background-image: url("/Rasmlar/statistika.jpg");
+    background-repeat: no-repeat;
+    background-size: 110px;
+    background-position: right;
+    box-sizing: border-box;
+}
+.main-menu-item2:before{
+    content: '';
+    border: 20px solid transparent;
+    border-top-color: white;
+    position: absolute;
+    top: 750px;
+    right: 877px;
+    transform: rotate(90deg);
+}
+.lorem_victor3{
+    position: absolute;
+    right: 350px;
+    color: gold;
+    top: -20px;
+}
+.def{
+    position: relative;
+    right: -40px;
+}
+.abc{
+    position: relative;
+    top: -50px;
+    right: -30px;
+}
+p{
+    width: 390px;
+}
+.option3{
+    border: 25px solid white;
+    width: 110px;
+    height: 110px;
+    background-color: red;
+    position: absolute;
+    top: 520px;
+    right: 376px;
+}
+.infographics3{
+    width: 500px;
+    height: 140px;
+    background-color: white;
+    margin-left: 50px;
+    position: relative;
+    top: 80px;
+    background-image: url("/Rasmlar/globus and people.png");
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: right;
+}
+.main-menu-item3:before{
+    content: '';
+    border: 20px solid transparent;
+    border-top-color: white;
+    position: absolute;
+    top: 930px;
+    right: 635px;
+    transform: rotate(270deg);
+}
+.option4{
+    border: 25px solid white;
+    width: 110px;
+    height: 110px;
+    background-color: blue;
+    position: absolute;
+    top: 880px;
+    right: 380px;
+}
+.lorem_victor4{
+    color: gold;
+}
+.lorem_victor5{
+    color: blue;
+}
+.lorem_victor6{
+    color: blue;
+    position: absolute;
+    top: 20px;
+}
+.option5{
+    border: 25px solid white;
+    width: 110px;
+    height: 110px;
+    background-color: green;
+    position: absolute;
+    top: 1095px;
+    right: 1014px;
+}
+.main-menu-item4:before{
+    content: '';
+    border: 20px solid transparent;
+    border-top-color: white;
+    position: absolute;
+    top: 1150px;
+    right: 877px;
+    transform: rotate(90deg);
+}
+.infographics4{
+    width: 500px;
+    height: 140px;
+    background-color: white;
+    margin-left: 50px;
+    position: relative;
+    top: 140px;
+    right: -295px;
+    background-image: url("/Rasmlar/lampochka.png");
+    background-repeat: no-repeat;
+    background-size: 110px;
+    background-position: right;
+}
+.lorem_victor7{
+    color: green;
+}
+.lorem_victor8{
+    color: green;
+    position: absolute;
+    top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,108 @@
+body{
+    background-color: #f1f1f1;
+}
+.big-box{
+    height: 500px;
+    background-color: grey;
+    background-image: url("/Rasmlar/yurakcha.png");
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 900px 0;
+    width: 100%;
+    margin: 0;
+}
+.mini_lorem2{
+    color: white;
+    text-align: center;
+    word-spacing: 100px;
+}
+.text{
+    color: white;
+    text-align: center;
+}
+.p2{
+    text-align: center;
+}
+.lorem{
+    text-align: center;
+    border-radius: 20px;
+    background-color: darkgrey;
+    width: 200px;
+    height: 40px;
+    margin-left: 830px;
+    margin-top: 160px;
+}
+.boxes{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 400px;
+    left: 850px;
+    background-image: url("/Rasmlar/comp.jpg");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: top 30px center;
+    box-shadow: 0 0 10px grey;
+}
+.boxes2{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    background-image: url("/Rasmlar/website.png");
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: top 50px center;
+    box-shadow: 0 0 10px grey;
+}
+.boxes3{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 400px;
+    left: 1200px;
+    background-image: url("/Rasmlar/qalqm.png");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: top 20px center;
+    box-shadow: 0 0 10px grey;
+}
+h2{
+    position: relative;
+    top: 150px;
+    left: 120px;
+}
+.pi{
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
